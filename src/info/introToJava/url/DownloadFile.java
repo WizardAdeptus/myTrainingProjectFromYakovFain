@@ -1,4 +1,4 @@
-package info.introToJava.info.introToJava.url;
+package info.introToJava.url;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
