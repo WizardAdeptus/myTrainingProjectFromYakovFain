@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.ObjectInput;
 import java.io.ObjectOutput;
 
-class EmployeeExt implements Externalizable {
+public class EmployeeExt implements Externalizable {
     private String lName;
     private String fName;
     private String address;
